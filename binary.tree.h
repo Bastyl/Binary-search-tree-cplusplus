@@ -1,4 +1,4 @@
-#ifndef AVL_binary_tree_h //This is were you .h file is located
+#ifndef AVL_binary_tree_h //This is where you .h file is located
 #define AVL_binary_tree_h//also you can just copy and paste the next code in your main file
 
 #include <iostream>
