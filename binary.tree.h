@@ -15,9 +15,7 @@ public:
         this->left = left;
         this->right = right;
     }
-    void getvalue(){
-        cout<<value<<endl;
-    }
+
     friend class Tree;
 };
 
